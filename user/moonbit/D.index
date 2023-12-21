@@ -1,2 +1,3 @@
 {"name": "moonbit/D", "version": "0.1.1", "deps": {"moonbit/E": "0.1.1"}, "checksum": "4848b8c83c78da7ff4e89d96d9f498d2d235322e8e7740a52a23f37f2ff21faa"}
 {"name": "moonbit/D", "version": "0.1.2", "deps": {"moonbit/E": "0.1.1"}, "checksum": "9a289cb925f17c1de43680cb96e76c1f5117b75b1c45a8422346242d7750f4b2"}
+{"name": "moonbit/D", "version": "0.1.3", "deps": {"moonbit/E": "0.1.2"}, "checksum": "b6d8b06fe92f4b22016f35fa2971adb111166c82d4e1d7cc61a6102c26852c22"}
