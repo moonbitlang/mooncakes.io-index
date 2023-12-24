@@ -1,3 +1,0 @@
-{"name": "moonbit/C", "version": "0.1.1", "checksum": "a79615cb279730c4676d2f06e40058be4d96479d682cf7ee383ec707b30ad532"}
-{"name": "moonbit/C", "version": "0.1.2", "deps": {"moonbit/D": "0.1.4"}, "checksum": "7528e8508f8d95102e5103a03914eca3fff14d6f309d9606e8b23b1760ef3592"}
-{"name": "moonbit/C", "version": "0.1.3", "deps": {"moonbit/F": "0.1.1"}, "checksum": "46fa77b177efc9bb1a24ee3fef45a0e3ce2053a6e0ba66d6200277ddf6ef4bd4"}
