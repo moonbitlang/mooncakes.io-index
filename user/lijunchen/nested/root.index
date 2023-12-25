@@ -1,0 +1,1 @@
+{"name": "lijunchen/nested/root", "version": "0.1.0", "deps": {"lijunchen/nested/lib1": "0.1.0", "lijunchen/nested/nested": "0.1.0"}, "checksum": "1bfc039c2fdadd20d6145d290f00859db4b5b25df167a2eadb78e92637b2c102"}
