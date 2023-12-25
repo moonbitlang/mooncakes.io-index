@@ -1,0 +1,1 @@
+{"name": "peter-jerry-ye/advent_of_code", "version": "0.1.0", "deps": {"peter-jerry-ye/wasi": "0.3.0", "peter-jerry-ye/parser-combinator": "0.2.0"}, "checksum": "5f2b4cd9ef084c43238af5098cfd3aaa88b64d58f86101fc5d6d04e386832a4d"}
