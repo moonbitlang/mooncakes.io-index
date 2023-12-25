@@ -1,1 +1,2 @@
 {"name": "Yoorkin/hashtbl", "version": "0.1.0", "deps": {"Yoorkin/stack": "0.1.3"}, "checksum": "041a4260fa508e26370b57bee7c4b6405caa13f452228f2fbeca2e52a2ecae1c"}
+{"name": "Yoorkin/hashtbl", "version": "0.1.1", "deps": {"Yoorkin/stack": "0.1.3"}, "checksum": "17183c5781450b8c29e747d435afba8db7fe18a827aef58869f0b303bddde0b3"}
