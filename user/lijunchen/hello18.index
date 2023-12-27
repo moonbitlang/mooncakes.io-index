@@ -2,3 +2,4 @@
 {"name": "lijunchen/hello18", "version": "0.1.1", "checksum": "f12b812808317e5663830e1b5ec9d6dd2eda540ef0265b999ce40e6ae70c5cd8"}
 {"name": "lijunchen/hello18", "version": "0.1.2", "deps": {"bobzhang/sexp": "0.1.0"}, "checksum": "6bbd7916317fbf4b03dcd09e4a0a90efd0f73ac731ee96931d77d4021b8797db"}
 {"name": "lijunchen/hello18", "version": "0.1.3", "deps": {"bobzhang/sexp": "0.1.0"}, "checksum": "09848ae0f498f0f30e38512975e628676b4fb1364cbd0211e2fc5a36126a8766"}
+{"name": "lijunchen/hello18", "version": "0.1.4", "checksum": "def647703b0cf29f7371fc7aa427caf446bbb3d021d94f70a53a6bbaaeefbecc"}
