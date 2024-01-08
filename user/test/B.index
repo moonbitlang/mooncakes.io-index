@@ -1,2 +1,2 @@
-{"name": "test/B", "version": "0.1.1", "deps": {"test/D": "0.1.1"}, "checksum": "21496bda96b5614528ae72a3351cceaeb5b9ddabbcb9442abeb96836d0a9dcd4"}
-{"name": "test/B", "version": "0.1.2", "deps": {"test/D": "0.1.3"}, "checksum": "25b4c52edd351bda78b67b469e852922d453410e0a5b5e8ff57a513af9146b9c"}
+{"name": "test/B", "version": "0.1.1", "deps": {"test/D": "0.1.1"}, "keywords": ["mooncakes-test"], "checksum": "21496bda96b5614528ae72a3351cceaeb5b9ddabbcb9442abeb96836d0a9dcd4"}
+{"name": "test/B", "version": "0.1.2", "deps": {"test/D": "0.1.3"}, "keywords": ["mooncakes-test"], "checksum": "25b4c52edd351bda78b67b469e852922d453410e0a5b5e8ff57a513af9146b9c"}

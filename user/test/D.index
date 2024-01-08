@@ -1,4 +1,4 @@
-{"name": "test/D", "version": "0.1.1", "deps": {"test/E": "0.1.1"}, "checksum": "7c84f49974152be73ea1d6f1c058fd389e86b11eca8a666285a123d5f6239efa"}
-{"name": "test/D", "version": "0.1.2", "deps": {"test/E": "0.1.1"}, "checksum": "9b80e58f41401ed5524d18b30582c7d469fc048ad4bb2f8787b6134abaf5ed53"}
-{"name": "test/D", "version": "0.1.3", "deps": {"test/E": "0.1.2"}, "checksum": "c6747bab128deb972cc77aa3eb896841f54ee1247b3d9763d5daf12391e39fe1"}
-{"name": "test/D", "version": "0.1.4", "deps": {"test/E": "0.1.2"}, "checksum": "8cda78945e25e0f923e9ec4356e3f287c3286937f08af1f512b0bae11c5f58a9"}
+{"name": "test/D", "version": "0.1.1", "deps": {"test/E": "0.1.1"}, "keywords": ["mooncakes-test"], "checksum": "7c84f49974152be73ea1d6f1c058fd389e86b11eca8a666285a123d5f6239efa"}
+{"name": "test/D", "version": "0.1.2", "deps": {"test/E": "0.1.1"}, "keywords": ["mooncakes-test"], "checksum": "9b80e58f41401ed5524d18b30582c7d469fc048ad4bb2f8787b6134abaf5ed53"}
+{"name": "test/D", "version": "0.1.3", "deps": {"test/E": "0.1.2"}, "keywords": ["mooncakes-test"], "checksum": "c6747bab128deb972cc77aa3eb896841f54ee1247b3d9763d5daf12391e39fe1"}
+{"name": "test/D", "version": "0.1.4", "deps": {"test/E": "0.1.2"}, "keywords": ["mooncakes-test"], "checksum": "8cda78945e25e0f923e9ec4356e3f287c3286937f08af1f512b0bae11c5f58a9"}
