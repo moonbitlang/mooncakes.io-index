@@ -10,3 +10,4 @@
 {"name": "peter-jerry-ye/wasi", "version": "0.8.0", "checksum": "7077944d29c465aaf6c192129ba75f3bcad6418bca45e16091b3586e26bcb12b"}
 {"name": "peter-jerry-ye/wasi", "version": "0.9.0", "checksum": "5b25cf476e2bb911bc4246f994c816ad7ae021b6c9483cad1a3f671dd9b7d824"}
 {"name": "peter-jerry-ye/wasi", "version": "0.9.1", "license": "Apache-2.0", "checksum": "a4d7c6717ef2f36ceedcb963a3a834af036e690ba696cc4489c99040e6f286cb"}
+{"name": "peter-jerry-ye/wasi", "version": "0.10.0", "deps": {"peter-jerry-ye/memory": "0.1.0"}, "license": "Apache-2.0", "checksum": "63aa40baf2bea39ce89d973aa32beed33d27caf744f03bfe72481bd02b261e60"}
